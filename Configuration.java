@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.Scanner;
 
 
-public class Config {
+public class Configuration {
 	
 	//common config
 	private final int numberOfPreferredNeighbors;
